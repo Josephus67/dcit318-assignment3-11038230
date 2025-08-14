@@ -1,0 +1,15 @@
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/bin/Debug/net9.0/HealthCareSystem
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/bin/Debug/net9.0/HealthCareSystem.deps.json
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/bin/Debug/net9.0/HealthCareSystem.runtimeconfig.json
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/bin/Debug/net9.0/HealthCareSystem.dll
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/bin/Debug/net9.0/HealthCareSystem.pdb
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.AssemblyInfo.cs
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.sourcelink.json
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.dll
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/refint/HealthCareSystem.dll
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.pdb
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/HealthCareSystem.genruntimeconfig.cache
+/Users/joe/Desktop/dcit318_ass3/HealthCareSystem/obj/Debug/net9.0/ref/HealthCareSystem.dll
