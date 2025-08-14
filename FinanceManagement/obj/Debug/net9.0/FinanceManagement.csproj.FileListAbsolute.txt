@@ -1,0 +1,15 @@
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.AssemblyInfo.cs
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.sourcelink.json
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/bin/Debug/net9.0/FinanceManagement
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/bin/Debug/net9.0/FinanceManagement.deps.json
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/bin/Debug/net9.0/FinanceManagement.runtimeconfig.json
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/bin/Debug/net9.0/FinanceManagement.dll
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/bin/Debug/net9.0/FinanceManagement.pdb
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.dll
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/refint/FinanceManagement.dll
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.pdb
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/FinanceManagement.genruntimeconfig.cache
+/Users/joe/Desktop/dcit318_ass3/FinanceManagement/obj/Debug/net9.0/ref/FinanceManagement.dll
