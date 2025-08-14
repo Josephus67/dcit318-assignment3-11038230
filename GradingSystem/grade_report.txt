@@ -1,0 +1,15 @@
+STUDENT GRADE REPORT
+Generated on: 2025-08-14 15:43:47
+Total students: 5
+
+Bawah Josephus (ID: 101): Score = 84, Grade = A
+Paul Ammah (ID: 102): Score = 67, Grade = C
+Justice Appati (ID: 103): Score = 92, Grade = A
+Juliet Ibrahim (ID: 104): Score = 45, Grade = F
+Ariel Helwani (ID: 105): Score = 76, Grade = B
+
+SUMMARY STATISTICS
+Grade A: 2 student(s)
+Grade C: 1 student(s)
+Grade F: 1 student(s)
+Grade B: 1 student(s)

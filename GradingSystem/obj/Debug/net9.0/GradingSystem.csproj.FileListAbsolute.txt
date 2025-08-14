@@ -1,0 +1,15 @@
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.AssemblyInfo.cs
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.sourcelink.json
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/bin/Debug/net9.0/GradingSystem
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/bin/Debug/net9.0/GradingSystem.deps.json
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/bin/Debug/net9.0/GradingSystem.runtimeconfig.json
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/bin/Debug/net9.0/GradingSystem.dll
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/bin/Debug/net9.0/GradingSystem.pdb
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.dll
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/refint/GradingSystem.dll
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.pdb
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/GradingSystem.genruntimeconfig.cache
+/Users/joe/Desktop/dcit318_ass3/GradingSystem/obj/Debug/net9.0/ref/GradingSystem.dll
