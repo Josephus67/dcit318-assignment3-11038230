@@ -1,0 +1,15 @@
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.AssemblyInfo.cs
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.sourcelink.json
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/bin/Debug/net9.0/InventoryRecords
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/bin/Debug/net9.0/InventoryRecords.deps.json
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/bin/Debug/net9.0/InventoryRecords.runtimeconfig.json
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/bin/Debug/net9.0/InventoryRecords.dll
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/bin/Debug/net9.0/InventoryRecords.pdb
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.dll
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/refint/InventoryRecords.dll
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.pdb
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/InventoryRecords.genruntimeconfig.cache
+/Users/joe/Desktop/dcit318_ass3/InventoryRecords/obj/Debug/net9.0/ref/InventoryRecords.dll
