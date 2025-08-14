@@ -1,0 +1,15 @@
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/bin/Debug/net9.0/WareHouseInventory
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/bin/Debug/net9.0/WareHouseInventory.deps.json
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/bin/Debug/net9.0/WareHouseInventory.runtimeconfig.json
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/bin/Debug/net9.0/WareHouseInventory.dll
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/bin/Debug/net9.0/WareHouseInventory.pdb
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.AssemblyInfoInputs.cache
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.AssemblyInfo.cs
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.sourcelink.json
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.dll
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/refint/WareHouseInventory.dll
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.pdb
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/WareHouseInventory.genruntimeconfig.cache
+/Users/joe/Desktop/dcit318_ass3/WareHouseInventory/obj/Debug/net9.0/ref/WareHouseInventory.dll
